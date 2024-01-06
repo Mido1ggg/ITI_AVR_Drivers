@@ -1,0 +1,839 @@
+Archive member included because of file (symbol)
+
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./HAL/LCD/LCD_program.o (__divmodhi4)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./HAL/SevSeg/SevSeg_program.o (__do_copy_data)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./APP/Calculator_Program.o (__do_clear_bss)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./HAL/SevSeg/SevSeg_program.o (__fixunssfsi)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              ./HAL/LCD/LCD_program.o (__subsf3)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./HAL/SevSeg/SevSeg_program.o (__mulsf3)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./APP/Calculator_Program.o (__divsf3)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                              ./APP/Calculator_Program.o (__eqsf2)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./HAL/SevSeg/SevSeg_program.o (__gtsf2)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./HAL/SevSeg/SevSeg_program.o (__ltsf2)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                              ./HAL/LCD/LCD_program.o (__floatsisf)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              ./HAL/LCD/LCD_program.o (__fixsfsi)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o) (__fpcmp_parts_f)
+c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+sign                0x1               ./APP/Calculator_Program.o
+arr                 0x40              ./APP/Calculator_Program.o
+x                   0x4               ./APP/Calculator_Program.o
+n                   0x1               ./APP/Calculator_Program.o
+Sstate              0x1               ./APP/Calculator_Program.o
+Sop                 0x1               ./APP/Calculator_Program.o
+Pstate              0x1               ./APP/Calculator_Program.o
+KPD_enter           0x1               ./APP/Calculator_Program.o
+k                   0x1               ./APP/Calculator_Program.o
+state               0x1               ./APP/Calculator_Program.o
+z                   0x1               ./APP/Calculator_Program.o
+enteranceArr        0x10              ./APP/Calculator_Program.o
+cleanSc             0x1               ./APP/Calculator_Program.o
+d                   0x1               ./APP/Calculator_Program.o
+keyPressed          0x1               ./APP/Calculator_Program.o
+MdArr               0x40              ./APP/Calculator_Program.o
+s                   0x1               ./APP/Calculator_Program.o
+Preset              0x1               ./APP/Calculator_Program.o
+sumArr              0x40              ./APP/Calculator_Program.o
+Pop                 0x1               ./APP/Calculator_Program.o
+opArr               0x40              ./APP/Calculator_Program.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/DIO/DIO_Program.o
+LOAD ./HAL/Switch_Comp/Switch_program.o
+LOAD ./HAL/SevSeg/SevSeg_program.o
+LOAD ./HAL/LED/Led_Program.o
+LOAD ./HAL/LCD/LCD_program.o
+LOAD ./HAL/Keypad/KPD_Program.o
+LOAD ./APP/Calculator_Program.o
+LOAD ./main.o
+LOAD c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x34d2
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_11
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_Program.o
+ .text          0x00000092        0x0 ./HAL/Switch_Comp/Switch_program.o
+ .text          0x00000092        0x0 ./HAL/SevSeg/SevSeg_program.o
+ .text          0x00000092        0x0 ./HAL/LED/Led_Program.o
+ .text          0x00000092        0x0 ./HAL/LCD/LCD_program.o
+ .text          0x00000092        0x0 ./HAL/Keypad/KPD_Program.o
+ .text          0x00000092        0x0 ./APP/Calculator_Program.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                0x0000078a                __eqsf2
+ .text          0x000007ea       0x60 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x000007ea                __gtsf2
+ .text          0x0000084a       0x60 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x0000084a                __gesf2
+ .text          0x000008aa       0x60 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000008aa                __ltsf2
+ .text          0x0000090a       0xbc c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                0x0000090a                __floatsisf
+ .text          0x000009c6       0xa8 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000009c6                __fixsfsi
+ .text          0x00000a6e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000a6e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000a6e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000a6e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000a6e       0x9e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000a6e                __clzsi2
+ .text          0x00000b0c      0x1aa c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000b0c                __pack_f
+ .text          0x00000cb6       0xf0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000cb6                __unpack_f
+ .text          0x00000da6       0xb2 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000da6                __fpcmp_parts_f
+ .text          0x00000e58        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00000e58                . = ALIGN (0x2)
+ *(.text.*)
+ .text.DIO_ErrStateSetPinDirection
+                0x00000e58      0x226 ./MCAL/DIO/DIO_Program.o
+                0x00000e58                DIO_ErrStateSetPinDirection
+ .text.DIO_ErrStateSetPinValue
+                0x0000107e      0x226 ./MCAL/DIO/DIO_Program.o
+                0x0000107e                DIO_ErrStateSetPinValue
+ .text.DIO_ErrStateReadPinValue
+                0x000012a4      0x128 ./MCAL/DIO/DIO_Program.o
+                0x000012a4                DIO_ErrStateReadPinValue
+ .text.DIO_ErrStateSetGroupDirection
+                0x000013cc       0x92 ./MCAL/DIO/DIO_Program.o
+                0x000013cc                DIO_ErrStateSetGroupDirection
+ .text.DIO_ErrStateSetGroupValue
+                0x0000145e       0x92 ./MCAL/DIO/DIO_Program.o
+                0x0000145e                DIO_ErrStateSetGroupValue
+ .text.DIO_ErrStateReadGroupValue
+                0x000014f0       0xb6 ./MCAL/DIO/DIO_Program.o
+                0x000014f0                DIO_ErrStateReadGroupValue
+ .text.SW_SwitchErrStateInit
+                0x000015a6      0x140 ./HAL/Switch_Comp/Switch_program.o
+                0x000015a6                SW_SwitchErrStateInit
+ .text.SW_SwitchErrStateGetState
+                0x000016e6       0x3c ./HAL/Switch_Comp/Switch_program.o
+                0x000016e6                SW_SwitchErrStateGetState
+ .text.SevSeg_SevErrInit
+                0x00001722       0x26 ./HAL/SevSeg/SevSeg_program.o
+                0x00001722                SevSeg_SevErrInit
+ .text.SevSeg_SevErrStateSetNumber
+                0x00001748      0x12e ./HAL/SevSeg/SevSeg_program.o
+                0x00001748                SevSeg_SevErrStateSetNumber
+ .text.SevSeg_SevErrStateDisplayRange
+                0x00001876      0x29c ./HAL/SevSeg/SevSeg_program.o
+                0x00001876                SevSeg_SevErrStateDisplayRange
+ .text.Led_LedErrStateTurnOn
+                0x00001b12       0x66 ./HAL/LED/Led_Program.o
+                0x00001b12                Led_LedErrStateTurnOn
+ .text.Led_LedErrStateTurnOff
+                0x00001b78       0x66 ./HAL/LED/Led_Program.o
+                0x00001b78                Led_LedErrStateTurnOff
+ .text.LCD_VoidInit
+                0x00001bde      0x426 ./HAL/LCD/LCD_program.o
+                0x00001bde                LCD_VoidInit
+ .text.LCD_VoidGoToXY
+                0x00002004       0x58 ./HAL/LCD/LCD_program.o
+                0x00002004                LCD_VoidGoToXY
+ .text.LCD_VoidSendString
+                0x0000205c       0x62 ./HAL/LCD/LCD_program.o
+                0x0000205c                LCD_VoidSendString
+ .text.LCD_VoidSendNum
+                0x000020be      0x154 ./HAL/LCD/LCD_program.o
+                0x000020be                LCD_VoidSendNum
+ .text.LCD_VoidSendFloat
+                0x00002212       0xf6 ./HAL/LCD/LCD_program.o
+                0x00002212                LCD_VoidSendFloat
+ .text.LCD_VoidWriteOnCGRAM
+                0x00002308       0x86 ./HAL/LCD/LCD_program.o
+                0x00002308                LCD_VoidWriteOnCGRAM
+ .text.LCD_VoidDispCharCGRAM
+                0x0000238e       0x2a ./HAL/LCD/LCD_program.o
+                0x0000238e                LCD_VoidDispCharCGRAM
+ .text.LCD_VoidSendCommand
+                0x000023b8      0x250 ./HAL/LCD/LCD_program.o
+                0x000023b8                LCD_VoidSendCommand
+ .text.LCD_VoidSendChar
+                0x00002608      0x250 ./HAL/LCD/LCD_program.o
+                0x00002608                LCD_VoidSendChar
+ .text.KPD_voidInit
+                0x00002858       0x66 ./HAL/Keypad/KPD_Program.o
+                0x00002858                KPD_voidInit
+ .text.KPD_u8GetPressedKey
+                0x000028be      0x1e4 ./HAL/Keypad/KPD_Program.o
+                0x000028be                KPD_u8GetPressedKey
+ .text.NUM      0x00002aa2       0xf0 ./APP/Calculator_Program.o
+                0x00002aa2                NUM
+ .text.P_fun    0x00002b92      0x19c ./APP/Calculator_Program.o
+                0x00002b92                P_fun
+ .text.S_fun    0x00002d2e      0x1c2 ./APP/Calculator_Program.o
+                0x00002d2e                S_fun
+ .text.Equal_fun
+                0x00002ef0       0xb6 ./APP/Calculator_Program.o
+                0x00002ef0                Equal_fun
+ .text.operat   0x00002fa6      0x138 ./APP/Calculator_Program.o
+                0x00002fa6                operat
+ .text.reset    0x000030de       0xae ./APP/Calculator_Program.o
+                0x000030de                reset
+ .text.CalculatorMode
+                0x0000318c      0x21c ./APP/Calculator_Program.o
+                0x0000318c                CalculatorMode
+ .text.main     0x000033a8       0x6a ./main.o
+                0x000033a8                main
+ .text.libgcc   0x00003412       0x26 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x00003412                __divmodhi4
+                0x00003412                _div
+ .text.libgcc   0x00003438        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00003438        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00003438        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003438       0x28 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00003438                __udivmodhi4
+ .text.libgcc   0x00003460       0x38 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00003460                __prologue_saves__
+ .text.libgcc   0x00003498       0x36 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00003498                __epilogue_restores__
+                0x000034ce                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000034ce        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000034ce                exit
+                0x000034ce                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000034ce        0x4 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000034d2                _etext = .
+
+.data           0x00800060      0x13e load address 0x000034d2
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_Program.o
+ .data          0x00800060        0x0 ./HAL/Switch_Comp/Switch_program.o
+ .data          0x00800060        0x0 ./HAL/SevSeg/SevSeg_program.o
+ .data          0x00800060        0x0 ./HAL/LED/Led_Program.o
+ .data          0x00800060        0x2 ./HAL/LCD/LCD_program.o
+ .data          0x00800062        0x0 ./HAL/Keypad/KPD_Program.o
+ .data          0x00800062        0xb ./APP/Calculator_Program.o
+ .data          0x0080006d        0x0 ./main.o
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x0080006d        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x0080006d        0x8 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x0080006d                __thenan_sf
+ .data          0x00800075        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800075        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800075        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800075        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800075        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800075        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800075        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800075      0x100 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800075                __clz_tab
+ *(.data*)
+ .data.SevSeg_Arr
+                0x00800175        0xa ./HAL/SevSeg/SevSeg_program.o
+                0x00800175                SevSeg_Arr
+ *(.rodata)
+ *(.rodata*)
+ .rodata.KPD_u8SwitchVal
+                0x0080017f       0x10 ./HAL/Keypad/KPD_Program.o
+                0x0080017f                KPD_u8SwitchVal
+ .rodata.KPD_u8RowsPins
+                0x0080018f        0x4 ./HAL/Keypad/KPD_Program.o
+                0x0080018f                KPD_u8RowsPins
+ .rodata.KPD_u8ColsPins
+                0x00800193        0x4 ./HAL/Keypad/KPD_Program.o
+                0x00800193                KPD_u8ColsPins
+ .rodata.C.0.1361
+                0x00800197        0x7 ./main.o
+ *(.gnu.linkonce.d*)
+                0x0080019e                . = ALIGN (0x2)
+                0x0080019e                _edata = .
+                0x0080019e                PROVIDE (__data_end, .)
+
+.bss            0x0080019e      0x124
+                0x0080019e                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x0080019e        0x0 ./MCAL/DIO/DIO_Program.o
+ .bss           0x0080019e        0x0 ./HAL/Switch_Comp/Switch_program.o
+ .bss           0x0080019e        0x0 ./HAL/SevSeg/SevSeg_program.o
+ .bss           0x0080019e        0x0 ./HAL/LED/Led_Program.o
+ .bss           0x0080019e        0x0 ./HAL/LCD/LCD_program.o
+ .bss           0x0080019e        0x0 ./HAL/Keypad/KPD_Program.o
+ .bss           0x0080019e        0x0 ./APP/Calculator_Program.o
+ .bss           0x0080019e        0x0 ./main.o
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0080019e        0x0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.bss*)
+ .bss.i         0x0080019e        0x1 ./APP/Calculator_Program.o
+                0x0080019e                i
+ *(COMMON)
+ COMMON         0x0080019f      0x123 ./APP/Calculator_Program.o
+                0x0080019f                sign
+                0x008001a0                arr
+                0x008001e0                x
+                0x008001e4                n
+                0x008001e5                Sstate
+                0x008001e6                Sop
+                0x008001e7                Pstate
+                0x008001e8                KPD_enter
+                0x008001e9                k
+                0x008001ea                state
+                0x008001eb                z
+                0x008001ec                enteranceArr
+                0x008001fc                cleanSc
+                0x008001fd                d
+                0x008001fe                keyPressed
+                0x008001ff                MdArr
+                0x0080023f                s
+                0x00800240                Preset
+                0x00800241                sumArr
+                0x00800281                Pop
+                0x00800282                opArr
+                0x008002c2                PROVIDE (__bss_end, .)
+                0x000034d2                __data_load_start = LOADADDR (.data)
+                0x00003610                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002c2        0x0
+                0x008002c2                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008002c2                PROVIDE (__noinit_end, .)
+                0x008002c2                _end = .
+                0x008002c2                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x3480
+ *(.stab)
+ .stab          0x00000000      0x6e4 ./MCAL/DIO/DIO_Program.o
+ .stab          0x000006e4      0x3a8 ./HAL/Switch_Comp/Switch_program.o
+                                0x3b4 (size before relaxing)
+ .stab          0x00000a8c      0x81c ./HAL/SevSeg/SevSeg_program.o
+                                0x828 (size before relaxing)
+ .stab          0x000012a8      0x390 ./HAL/LED/Led_Program.o
+                                0x39c (size before relaxing)
+ .stab          0x00001638      0xe34 ./HAL/LCD/LCD_program.o
+                                0xfd8 (size before relaxing)
+ .stab          0x0000246c      0x510 ./HAL/Keypad/KPD_Program.o
+                                0x6b4 (size before relaxing)
+ .stab          0x0000297c      0x948 ./APP/Calculator_Program.o
+                                0xaec (size before relaxing)
+ .stab          0x000032c4      0x1bc ./main.o
+                                0x4b0 (size before relaxing)
+
+.stabstr        0x00000000     0x22de
+ *(.stabstr)
+ .stabstr       0x00000000     0x22de ./MCAL/DIO/DIO_Program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x00000100       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000140       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000160       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x000001a0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x20e
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000e7       0x1e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x00000105       0x22 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x00000127       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000147       0x22 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000169       0x1f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x00000188       0x1f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x000001a7       0x21 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001c8       0x26 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001ee       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x268b
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_info    0x0000102b      0x27f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x000012aa      0x27f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00001529      0x27f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x000017a8      0x207 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_info    0x000019af      0x2b0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x00001c5f      0x12c c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001d8b      0x117 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001ea2      0x2df c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00002181      0x251 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x000023d2      0x210 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x000025e2       0xa9 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x14d1
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_abbrev  0x000007d2      0x15a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x0000092c      0x15a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000a86      0x15a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000be0      0x148 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00000d28      0x17f c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000ea7       0xad c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000f54       0xc4 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00001018      0x1c0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x000011d8      0x154 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x0000132c      0x13b c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00001467       0x6a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x12ab
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_line    0x00000837       0xd3 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x0000090a       0xd3 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x000009dd       0xd3 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000ab0      0x135 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000be5      0x109 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000cee       0x90 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000d7e       0xa5 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000e23      0x18a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000fad      0x14b c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x000010f8      0x137 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000122f       0x7c c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1e0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000e0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00000100       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000120       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00000140       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000160       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000180       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x000001a0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001c0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2fb
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280        0x8 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000288       0x1e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                                0x17b (size before relaxing)
+ .debug_str     0x000002a6        0xa c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x000002b0       0x20 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002d0       0x10 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002e0        0xb c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002eb       0x10 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0xa0a
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_loc     0x0000055e       0x3c c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000059a       0x3c c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000005d6       0x3c c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00000612       0xac c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x000006be       0x7e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x0000073c       0x94 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x000007d0      0x13e c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x0000090e       0xac c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x000009ba       0x50 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Calculator_prj.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/mohamed files/new folder/programes/azex collection/tools/tools/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
